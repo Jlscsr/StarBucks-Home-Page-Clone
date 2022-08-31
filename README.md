@@ -1,2 +1,5 @@
 # StarBucks-Home-Page-Clone
-## A StarBuck Clone Page App
+
+## 👀 A Static StarBuck Clone Page App
+
+### 😌😌😌 Not Responsive
